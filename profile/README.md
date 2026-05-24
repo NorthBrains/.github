@@ -56,14 +56,6 @@ We then take those models and put them directly into users' pockets through **na
 > 🏀 &nbsp;NBA · EuroLeague &nbsp;&nbsp; 🏈 NFL &nbsp;&nbsp; 🏒 NHL &nbsp;&nbsp; ⚾ MLB &nbsp;&nbsp; 🎾 ATP · WTA<br/>
 > *…and many more, with new competitions added regularly.*
 
-### Built on research, not guesswork
-
-Our models are grounded in published work on football analytics and applied ML, including:
-
-- [Factors associated with match outcomes in elite European football — insights from machine learning models](https://www.researchgate.net/publication/378544374_Factors_associated_with_match_outcomes_in_elite_European_football_-_insights_from_machine_learning_models)
-- [Machine learning application in soccer: a systematic review](https://www.researchgate.net/publication/359437504_Machine_learning_application_in_soccer_a_systematic_review)
-- [Machine Learning for Soccer Match Result Prediction](https://www.researchgate.net/publication/374672968_Machine_Learning_for_Soccer_Match_Result_Prediction)
-
 ### Get the app
 
 <p>
